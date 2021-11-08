@@ -1,0 +1,4 @@
+
+"scripts": {
+	"baiduPush": "node baiduPush.js https://www.mrzefr.top && bash baiduPush.sh"
+}
